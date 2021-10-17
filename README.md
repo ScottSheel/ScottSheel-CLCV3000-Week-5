@@ -5,5 +5,5 @@ Added an l to isamic to make it Islamic, added Mormon denomination. Added a non-
 
 
 [vertopal.com_intro to sql.pdf](https://github.com/ScottSheel/ScottSheel-CLCV3000-Week-5/files/7358624/vertopal.com_intro.to.sql.pdf)
-
+Wasn't able to upload it as the iypnb file.
 
